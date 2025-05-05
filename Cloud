@@ -27,13 +27,13 @@ This project documents the build and implementation of a hybrid cloud-enabled cy
 
 ---
 
-## ☁️ Hybrid Cloud Integration (AWS)
+## ☁️ Hybrid Cloud Integration (Azure)
 
 ### 🎯 Goal:
-Offload logs and backups securely to AWS S3 for hybrid network resilience and log redundancy.
+Offload logs and backups securely to an Azure Blob for hybrid network resilience and log redundancy.
 
 ### 🔧 Implementation:
-- **Service Used**: Amazon S3
+- **Service Used**: Azure
 - **Tools**:
   - AWS CLI configured on local systems
   - Cron jobs & Bash scripts to upload logs from:
