@@ -41,4 +41,5 @@ Offload logs and backups securely to an Azure Blob for hybrid network resilience
     - Suricata (planned)
     - Windows Server 2019 Event Logs (future via PowerShell)
    
-    - This document is a living blueprint of the evolving Paige Home Lab. Configs and implementations are updated as new services come online.
+    -This document is a living blueprint of the evolving Paige Home Lab. Configs and implementations are updated as new services come online.
+© 2025 John Wesley Paige Jr.
